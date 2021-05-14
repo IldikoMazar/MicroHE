@@ -1,4 +1,4 @@
-﻿# Micro-Credential Meta-data Standard draft
+﻿# Micro-Credential Meta-data Standard
 
 Based on the Qualifications metadata schema and ESCO data schema, extended with MicroHE: http://helium.ijs.si/microhe/escomc.html
 
